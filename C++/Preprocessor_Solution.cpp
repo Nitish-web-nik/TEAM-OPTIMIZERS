@@ -6,9 +6,7 @@
 
 #define io(v) \
     cin >> v
-
 #define toStr(x) #x
-
 #define foreach(v, i) \
     for (size_t i = 0; i < v.size(); ++i)
 

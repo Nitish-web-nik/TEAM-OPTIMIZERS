@@ -1,4 +1,5 @@
 #define INF 1000000000
+
 #define FUNCTION(f, comp) \
         void f(int& a, int b) \
         { if (b comp a) a = b; }

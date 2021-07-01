@@ -1,5 +1,4 @@
 /*Sample Input
-
 10 5
 Sample Output
 

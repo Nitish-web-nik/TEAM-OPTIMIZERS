@@ -2,6 +2,7 @@
 #include <cmath>
 using namespace std;
 
+
 int ms0(int a[3][3])
 {
     int sum;

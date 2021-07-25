@@ -4,6 +4,7 @@ Sample Output
 10 5
 50
 */
+
 #include <iostream>
 
 using namespace std;

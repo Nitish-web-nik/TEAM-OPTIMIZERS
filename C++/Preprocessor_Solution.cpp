@@ -10,7 +10,6 @@
 #define foreach(v, i) \
     for (size_t i = 0; i < v.size(); ++i)
 
-
 #include <iostream>
 #include <vector>
 using namespace std;
